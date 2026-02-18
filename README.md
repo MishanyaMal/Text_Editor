@@ -13,9 +13,9 @@ A lightweight desktop-style text editor for creating, opening, and editing plain
 
 ## Technologies Used
 
-- **Language:** Python
+- **Language:** 'Python'
 - **Core Modules:** `os`, `sys` (for file system operations)
-- **Main Python Module:** PyQt6
+- **Main Python Module:** 'PyQt6'
 
 ## How It Works
 
